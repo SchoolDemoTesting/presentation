@@ -1,0 +1,17 @@
+project README
+--------------
+
+This repository contains a skeletal version of the project.cpp file
+   that is to be completed/submitted by the student,
+and contains a makefile with support for compiling and submitting
+   the project.cpp file.
+
+The lab instructions and support material can be found online at URL
+    http://csci.viu.ca/~wesselsd/courses/csci160/labs/project/
+
+To compile the file, use the following command (from linux):
+   make projectx
+
+To submit the file, use the following command (from linux):
+   make submit
+
