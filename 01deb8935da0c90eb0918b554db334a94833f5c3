@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "304d3fdd_e8c327fa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1020480
+      },
+      "writtenOn": "2022-09-09T17:04:02Z",
+      "side": 1,
+      "message": "Can you elaborate here on what you\u0027re simplifying? what changes are you making?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 13
+      },
+      "revId": "01deb8935da0c90eb0918b554db334a94833f5c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc30a277_a93545f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020480
+      },
+      "writtenOn": "2022-09-09T17:04:02Z",
+      "side": 1,
+      "message": "I think you forgot to add project.cpp to this commit. functions.h needs to be included. And the function declarations should be removed from project.cpp as well.",
+      "revId": "01deb8935da0c90eb0918b554db334a94833f5c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59f65d61_e783043a",
+        "filename": "functions.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020480
+      },
+      "writtenOn": "2022-09-09T17:04:02Z",
+      "side": 1,
+      "message": "you need to import functions.h",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 1,
+        "endChar": 9
+      },
+      "revId": "01deb8935da0c90eb0918b554db334a94833f5c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "64ef6dce_e2cf1bc0",
+        "filename": "functions.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1020480
+      },
+      "writtenOn": "2022-09-09T17:04:02Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 125,
+        "startChar": 0,
+        "endLine": 125,
+        "endChar": 3
+      },
+      "revId": "01deb8935da0c90eb0918b554db334a94833f5c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
